@@ -1,5 +1,8 @@
-[{"title":"Test Title",
- "text":"Test text",
- "Id:": "0"
- 
- }]
+[
+  {
+    "title": "Test Title",
+    "text": "Test text",
+    "Id:": "0",
+    "id": 0
+  }
+]
